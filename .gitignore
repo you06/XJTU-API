@@ -1,0 +1,6 @@
+# IDE
+/nbproject
+
+# Cache File
+/lib/Cache/*
+!/lib/Cache/XjtuCacheTest
